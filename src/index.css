@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: Inter;
+}
+
+.nav--container{
+  padding-block:20px ;
+  display: flex;
+  justify-content: center;
+  background-color: #F55A5A;
+}
+.nav--logo{
+    margin-right:8px ;  
+}
+.nav--title{
+  font-weight: normal;
+  font-size:1.2rem;
+  color:white;
+  letter-spacing: -1px;
+}
+.card--container{
+  display: flex;
+  padding: 60px 30px 35px 40px;
+  margin: 10px;
+  border-bottom: 4px solid #F5F5F5;
+}
+.card--container:last-child{
+  border: none;
+}
+.card--details{
+  padding: 10px;
+}
+.card--destinationImage{
+  margin-right: 10px;
+  padding-right: 10px;
+}
+.card--pathIcon{
+    height: 15px;
+    padding-right: 10px;
+}
+.card--country{
+  padding-right: 10px;
+  letter-spacing: 2px;
+}
+.card--link{
+  color:#918E9B;
+
+}
+.card--heading{
+  margin-top: 5px;
+  padding-bottom: 15px;
+  font-size: 40px;
+}
+.card--Date{
+  font-weight: 700;
+  margin-top:10px;
+  padding-bottom:20px ;
+  font-size: 1rem;
+}
+.card--description{
+  line-height: 25px;
+  text-align: justify;
+}
