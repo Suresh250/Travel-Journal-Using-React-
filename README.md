@@ -1,8 +1,19 @@
-# React + Vite
+# Travel Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- User-friendly interface with intuitive navigation.
+- Add, edit, and delete travel journal entries.
+- Upload and display images associated with each trip.
+- Responsive design for optimal viewing on various devices.
 
-Currently, two official plugins are available:
+## Technologies Used
+- **React**: For building the user interface.
+- **CSS**: For styling and layout.
+- **JavaScript**: For functionality and interactivity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+To get a local copy up and running, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Suresh250/Travel-Journal-Using-React-.git
